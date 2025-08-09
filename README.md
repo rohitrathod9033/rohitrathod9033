@@ -57,11 +57,7 @@
 
 ## 🐍 Contribution Snake
 <p align="center">
-  <img src="https://raw.githubusercontent.com/rohitrathod9033/rohitrathod9033/output/github-contribution-grid-snake.svg" alt="Light Mode Snake"/>
-</p>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/rohitrathod9033/rohitrathod9033/output/github-contribution-grid-snake-dark.svg" alt="Dark Mode Snake"/>
+  <img src="https://raw.githubusercontent.com/rohitrathod9033/rohitrathod9033/output/github-contribution-grid-snake.svg" alt="Contribution Snake"/>
 </p>
 
 ---
