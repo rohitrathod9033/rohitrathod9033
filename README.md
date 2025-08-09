@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Rohit Rathod</h1>
 <h3 align="center">"Full-Stack JavaScript Developer | MongoDB, Express.js, React, Node.js"</h3>
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYTg1aXdhN2R2N2sxeTlqcmx0a25nYnZnMDNpbzUwZ21mdGR0djNqaCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/RbDKaczqWovIugyJmW/giphy.gif"
+<img src="[https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYTg1aXdhN2R2N2sxeTlqcmx0a25nYnZnMDNpbzUwZ21mdGR0djNqaCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/RbDKaczqWovIugyJmW/giphy.gif](https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif)"
      alt="Animated GIF from GIPHY – coding/hacking style">
 
 
