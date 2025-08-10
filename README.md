@@ -1,11 +1,14 @@
-# 👋 Hi, I'm Rohit Rathod
+<!-- README.md -->
+
+<h1 align="center">
+  <img src="https://raw.githubusercontent.com/rohitrathod9033/rohitrathod9033/output/wave.gif" alt="wave" width="34px" />
+  Hi 👋, I'm Rohit Rathod
+</h1>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/rohitrathod9033/rohitrathod9033/output/wave.gif" alt="wave" width="36px" />
-</p>
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&pause=1200&color=00E6FF&center=true&vCenter=true&width=780&lines=Full-Stack+JavaScript+Developer;MERN+Stack+|+MongoDB+Express+React+Node;Building+E-Learning+Portal;Open+to+Collaborations" alt="typing" />
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&pause=1200&color=00E6FF&center=true&vCenter=true&width=780&lines=Full-Stack+JavaScript+Developer;MERN+Stack+|+MongoDB+Express+React+Node;Building+E-Learning+Portal;Open+to+Collaborations" alt="typing"/>
+  </a>
 </p>
 
 <p align="center">
@@ -19,9 +22,9 @@
 ---
 
 ## 🚀 About Me
-- 🔭 Currently building an **E-Learning Portal**  
-- 🌟 Featured project: [Astrotalk Clone](https://astrotalk-clone.netlify.app/)  
-- 💬 Ask me about **MERN (MongoDB • Express • React • Node)**  
+- 🔭 Currently working on **E-Learning Portal**  
+- 🌟 Built: [Astrotalk Clone](https://astrotalk-clone.netlify.app/)  
+- 💬 Ask me about **MERN Stack**  
 - 📫 Reach me: **rohitrathod60371@gmail.com**  
 - ⚡ Fun fact: *I think I'm funny 😄*
 
@@ -52,25 +55,8 @@
 
 ---
 
-## 🧩 Inside My World
-- ☕ Coffee + Code = Perfect Morning  
-- 🎧 Music fuels my creativity (lofi + indie)  
-- 📚 Lifelong learner — currently exploring **AI & Cloud**  
-- 🏋️ Fitness enthusiast — balanced mind, balanced body  
-- 🌍 Aspiring to build products that help millions
-
----
-
-## ✅ What I’m Working On
-- E-Learning Portal (features: courses, user dashboard, payments)
-- Side project: small SaaS utilities for developers
-
----
-
-## 🤝 Let’s Collaborate
-If you have an idea, open-source project, or opportunity — I'd love to hear about it.  
-Email: **rohitrathod60371@gmail.com**
-
----
-
 Thanks for visiting — let’s build something awesome! 🚀
+
+
+
+
