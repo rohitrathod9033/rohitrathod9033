@@ -77,7 +77,7 @@ Thanks for visiting — let’s build something awesome! 🚀
 
 -------------------
 
-<details>
+<details open>
   <summary>Half year calendar</summary>
-  <img width="400" src="https://github.com/rohitrathod9033/rohitrathod9033/blob/output/metrics.plugin.isocalendar.svg">
+  <img width="400" src="https://raw.githubusercontent.com/rohitrathod9033/rohitrathod9033/output/metrics.plugin.isocalendar.svg" alt="Half Year Calendar">
 </details>
