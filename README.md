@@ -85,8 +85,9 @@
 
 <img 
   src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" 
-  style="display: block; width: 100vw; height: auto; margin: 0 auto;" 
-  alt="Full width GIF" />
+  style="display: block; width: 100vw; max-height: 80vh; object-fit: contain; margin: 0 auto;" 
+  alt="Responsive GIF" />
+
 
 
 ---------------------------------------------
