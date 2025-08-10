@@ -81,9 +81,6 @@
     src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
   />
 </picture>
--------------------------------------
 
 Thanks for visiting — let’s build something awesome! 🚀
 
-
--------------------
