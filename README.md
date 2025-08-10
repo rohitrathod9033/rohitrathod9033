@@ -66,7 +66,7 @@
 
 ---
 
-<img width="1014" height="1117" alt="image" src="https://github.com/user-attachments/assets/830785c5-478a-4cbf-a691-bcf0628d7ee5" />
+<iframe src="https://raw.githubusercontent.com/rohitrathod9033/rohitrathod9033/output/github-contribution-grid-snake2.svg" frameborder="0" width="800" height="200"></iframe>
 
 
 Thanks for visiting — let’s build something awesome! 🚀
