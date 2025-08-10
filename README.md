@@ -67,15 +67,11 @@
 ---
 
 
-<div style="width: 100%; display: flex; justify-content: center;">
-  <iframe 
-    frameBorder="0" 
-    height="190px" 
-    width="1005px" 
-    src="https://git-graph.vercel.app/embed/rohitrathod9033?showColorLegend=true&showWeekdayLabels=true&showMonthLabels=true&showTotalCount=true&blockMargin=2&blockRadius=3&blockSize=16&fontSize=10&weekStart=0&year=2025">
-  </iframe>
-</div>
-
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
+  <img alt="github-snake" src="github-snake.svg" />
+</picture>
 
 
 
