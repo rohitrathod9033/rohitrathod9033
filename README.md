@@ -81,17 +81,17 @@
     src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
   />
 </picture>
+-------------------------------------
 
+<img 
+  src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" 
+  style="display: block; width: 100vw; height: auto; margin: 0 auto;" 
+  alt="Full width GIF" />
+
+
+---------------------------------------------
 
 Thanks for visiting — let’s build something awesome! 🚀
 
 
 -------------------
-
-<body style="margin:0; height:100vh; display:flex; justify-content:center; align-items:center; background:#000;">
-  <img
-    src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif"
-    alt="Centered GIF"
-    style="width:100vw; height:auto; max-height:100vh; object-fit:contain;"
-  />
-</body>
