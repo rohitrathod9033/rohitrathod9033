@@ -67,7 +67,7 @@
 ---
 
 
-<div style="width:100vw; display:flex; justify-content:center; align-items:center;"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg"/><source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"/><img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"/></picture></div>
+<iframe frameBorder="0" height="157px" width="690px" src="https://git-graph.vercel.app/embed/rohitrathod9033?showColorLegend=true&showWeekdayLabels=true&showMonthLabels=true&showTotalCount=true&blockMargin=2&blockRadius=0&blockSize=10&fontSize=14&weekStart=4&year=2025"></iframe>
 
 
 
