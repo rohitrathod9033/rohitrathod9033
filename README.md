@@ -66,13 +66,7 @@
 
 ---
 
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
-  <img alt="github-snake" src="github-snake.svg" />
-</picture>
-
+<img width="1014" height="1117" alt="image" src="https://github.com/user-attachments/assets/830785c5-478a-4cbf-a691-bcf0628d7ee5" />
 
 
 Thanks for visiting — let’s build something awesome! 🚀
