@@ -5,6 +5,12 @@
   Hi 👋, I'm Rohit Rathod
 </h1>
 
+
+<div style="display: flex; justify-content: center; align-items: center; height: 100vh; margin: 0;">
+  <img src="https://private-user-images.githubusercontent.com/74038190/243078834-72903324-cf57-4e90-80a6-ed3c9734e0ed.gif" alt="Centered GIF">
+</div>
+
+
 <p align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&pause=1200&color=00E6FF&center=true&vCenter=true&width=780&lines=Full-Stack+JavaScript+Developer;MERN+Stack+|+MongoDB+Express+React+Node;Building+E-Learning+Portal;Open+to+Collaborations" alt="typing"/>
