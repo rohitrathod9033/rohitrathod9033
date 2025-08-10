@@ -6,15 +6,6 @@
 </h1>
 
 
-<body style="margin:0; height:100vh; display:flex; justify-content:center; align-items:center; background:#000;">
-  <img
-    src="https://private-user-images.githubusercontent.com/74038190/243078834-72903324-cf57-4e90-80a6-ed3c9734e0ed.gif?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NTQ4MDMxNTcsIm5iZiI6MTc1NDgwMjg1NywicGF0aCI6Ii83NDAzODE5MC8yNDMwNzg4MzQtNzI5MDMzMjQtY2Y1Ny00ZTkwLTgwYTYtZWQzYzk3MzRlMGVkLmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTA4MTAlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUwODEwVDA1MTQxN1omWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWU2ZTc5ZTZmNjNkNThkZDhmNDQ0Y2M2ZDM4ZDVmNDE2MDQ5ZTE1MWI1NDQ4MzNmMTdiM2JmNzI5ODhiMTEwMmQmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.k-Q-bs4k8ejfqigtaTyuefYrgS38AHovVyCdKjEqMYA"
-    alt="Centered GIF"
-    style="width:100vw; height:auto; max-height:100vh; object-fit:contain;"
-  />
-</body>
-
-
 <p align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&pause=1200&color=00E6FF&center=true&vCenter=true&width=780&lines=Full-Stack+JavaScript+Developer;MERN+Stack+|+MongoDB+Express+React+Node;Building+E-Learning+Portal;Open+to+Collaborations" alt="typing"/>
@@ -28,6 +19,15 @@
   &nbsp;
   <img src="https://img.shields.io/github/stars/rohitrathod9033?style=social" alt="stars" />
 </p>
+
+
+<body style="margin:0; height:100vh; display:flex; justify-content:center; align-items:center; background:#000;">
+  <img
+    src="https://private-user-images.githubusercontent.com/74038190/243078834-72903324-cf57-4e90-80a6-ed3c9734e0ed.gif?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NTQ4MDMxNTcsIm5iZiI6MTc1NDgwMjg1NywicGF0aCI6Ii83NDAzODE5MC8yNDMwNzg4MzQtNzI5MDMzMjQtY2Y1Ny00ZTkwLTgwYTYtZWQzYzk3MzRlMGVkLmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTA4MTAlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUwODEwVDA1MTQxN1omWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWU2ZTc5ZTZmNjNkNThkZDhmNDQ0Y2M2ZDM4ZDVmNDE2MDQ5ZTE1MWI1NDQ4MzNmMTdiM2JmNzI5ODhiMTEwMmQmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.k-Q-bs4k8ejfqigtaTyuefYrgS38AHovVyCdKjEqMYA"
+    alt="Centered GIF"
+    style="width:100vw; height:auto; max-height:100vh; object-fit:contain;"
+  />
+</body>
 
 
 ---
