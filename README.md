@@ -77,3 +77,9 @@ Thanks for visiting — let’s build something awesome! 🚀
 
 -------------------
 
+
+<div style="display: flex; justify-content: center; align-items: center; height: 100vh; margin: 0;">
+  <img src="https://user-images.githubusercontent.com/74038190/219923823-bf1ce878-c6b8-4faa-be07-93e6b1006521.gif" alt="Centered GIF">
+</div>
+
+
