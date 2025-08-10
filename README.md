@@ -88,8 +88,10 @@ Thanks for visiting — let’s build something awesome! 🚀
 
 -------------------
 
-<div style="width: 100%; display: flex; justify-content: center;">
-  <img src="https://user-images.githubusercontent.com/74038190/212749171-b84692a8-2b04-4e3b-93ca-ac14705da224.gif" alt="Centered GIF">
-</div>
-
-
+<body style="margin:0; height:100vh; display:flex; justify-content:center; align-items:center; background:#000;">
+  <img
+    src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif"
+    alt="Centered GIF"
+    style="width:100vw; height:auto; max-height:100vh; object-fit:contain;"
+  />
+</body>
