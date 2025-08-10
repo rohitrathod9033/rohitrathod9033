@@ -77,29 +77,7 @@ Thanks for visiting — let’s build something awesome! 🚀
 
 -------------------
 
- <details>
+<details>
   <summary>Half year calendar</summary>
   <img width="400" src="https://github.com/rohitrathod9033/rohitrathod9033/blob/output/metrics.plugin.isocalendar.svg">
 </details>
-<img width="900" height="1" alt="">
-</td>
-<td align="center">
-  <details open>
-    <summary>Indepth analysis (clone and analyze repositories)</summary>
-    <img width="400" src="https://github.com/rohitrathod9033/rohitrathod9033/blob/output/metrics.plugin.languages.indepth.svg">
-  </details>
-  <details open>
-    <summary>Recently used (analyze recent activity events)</summary>
-    <img width="400" src="https://github.com/rohitrathod9033/rohitrathod9033/blob/output/metrics.plugin.languages.recent.svg">
-  </details>
-  <details>
-    <summary>Default algorithm</summary>
-    <img width="400" src="https://github.com/rohitrathod9033/rohitrathod9033/blob/output/metrics.plugin.languages.svg">
-  </details>
-  <details>
-    <summary>Default algorithm (with details)</summary>
-    <img width="400" src="https://github.com/rohitrathod9033/rohitrathod9033/blob/output/metrics.plugin.languages.details.svg">
-  </details>
-  <img width="900" height="1" alt="">
-</td>
-</tr>
