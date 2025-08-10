@@ -66,11 +66,6 @@
 
 ---
 
-## 🐍 Contribution Snake
-<p align="center">
-  <img src="https://raw.githubusercontent.com/rohitrathod9033/rohitrathod9033/output/github-contribution-grid-snake.svg" alt="Contribution Snake"/>
-</p>
-
 
 
 Thanks for visiting — let’s build something awesome! 🚀
