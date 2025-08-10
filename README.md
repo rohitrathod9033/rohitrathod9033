@@ -83,11 +83,11 @@
 </picture>
 -------------------------------------
 
-<div style="width: 100vw; max-height: 80vh; overflow: hidden;">
-  <img
-    src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif"
-    style="width: 100%; height: auto; display: block;"
-    alt="Full width GIF"
+<div style="max-width: 800px; margin: 0 auto;">
+  <img 
+    src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" 
+    style="width: 100%; height: auto; display: block;" 
+    alt="Centered GIF" 
   />
 </div>
 
