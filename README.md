@@ -1,13 +1,13 @@
 <!-- README.md -->
 
 <h1 align="center">
-  <img src="https://raw.githubusercontent.com/rohitrathod9033/rohitrathod9033/output/wave.gif" alt="wave" width="34px" />
+  <img src="https://raw.githubusercontent.com/rohitrathod9033/rohitrathod9033/main/output/wave.gif" alt="wave" width="34px" />
   Hi 👋, I'm Rohit Rathod
 </h1>
 
 <p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&pause=1200&color=00E6FF&center=true&vCenter=true&width=780&lines=Full-Stack+JavaScript+Developer;MERN+Stack+|+MongoDB+Express+React+Node;Building+E-Learning+Portal;Open+to+Collaborations" alt="typing"/>
+  <a href="https://git.io/typing-svg" target="_blank" rel="noopener">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&pause=1200&color=00E6FF&center=true&vCenter=true&width=780&lines=Full-Stack+JavaScript+Developer;MERN+Stack+|+MongoDB+Express+React+Node;Building+E-Learning+Portal;Open+to+Collaborations" alt="typing" />
   </a>
 </p>
 
@@ -21,7 +21,7 @@
 
 ---
 
-## 🚀 About Me
+# 🚀 About Me
 - 🔭 Currently working on **E-Learning Portal**  
 - 🌟 Built: [Astrotalk Clone](https://astrotalk-clone.netlify.app/)  
 - 💬 Ask me about **MERN Stack**  
@@ -30,23 +30,23 @@
 
 ---
 
-## 🛠 Tech Stack
+# 🛠 Tech Stack
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,react,nodejs,express,mongodb,tailwind,aws,docker,git,html,css&theme=dark" alt="techicons"/>
+  <img src="https://skillicons.dev/icons?i=js,react,nodejs,express,mongodb,tailwind,aws,docker,git,html,css&theme=dark" alt="techicons" />
 </p>
 
 ---
 
-## 📊 GitHub Stats
+# 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rohitrathod9033&show_icons=true&theme=tokyonight&hide_border=true" height="160" alt="github-stats"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=rohitrathod9033&show_icons=true&theme=tokyonight&hide_border=true" height="160" alt="github-stats" />
   &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rohitrathod9033&layout=compact&theme=tokyonight&hide_border=true" height="160" alt="top-langs"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rohitrathod9033&layout=compact&theme=tokyonight&hide_border=true" height="160" alt="top-langs" />
 </p>
 
 ---
 
-## 🔥 Streak & Trophies
+# 🔥 Streak & Trophies
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=rohitrathod9033&theme=tokyonight&hide_border=true" alt="streak" />
   &nbsp;
@@ -55,22 +55,24 @@
 
 ---
 
-## 🐍 Contribution Snake
+# 🐍 Contribution Snake
 <p align="center">
-  <img src="https://raw.githubusercontent.com/rohitrathod9033/rohitrathod9033/output/github-contribution-grid-snake.svg" alt="Contribution Snake"/>
+  <!-- Ensure this file exists at output/github-contribution-grid-snake.svg in the 'main' branch -->
+  <img src="https://raw.githubusercontent.com/rohitrathod9033/rohitrathod9033/main/output/github-contribution-grid-snake.svg" alt="Contribution Snake" />
 </p>
 
 ---
 
-## 🌌 Skyline & Metrics
+# 🌌 Skyline & Metrics
 <p align="center">
-  <a href="https://skyline.github.com/rohitrathod9033">
-    <img src="https://img.shields.io/badge/View%20Skyline-Open-9cf?style=for-the-badge" alt="skyline"/>
+  <a href="https://skyline.github.com/rohitrathod9033" target="_blank" rel="noopener">
+    <img src="https://img.shields.io/badge/View%20Skyline-Open-9cf?style=for-the-badge" alt="skyline" />
   </a>
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/rohitrathod9033/rohitrathod9033/main/github-metrics.svg" alt="github-metrics" width="80%"/>
+  <!-- Ensure this file exists at main/github-metrics.svg -->
+  <img src="https://raw.githubusercontent.com/rohitrathod9033/rohitrathod9033/main/github-metrics.svg" alt="github-metrics" width="80%" />
 </p>
 
 ---
