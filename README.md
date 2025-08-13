@@ -59,7 +59,6 @@
 
 ## 🔥 Streak & Trophies
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=rohitrathod9033&theme=tokyonight&hide_border=true" alt="streak" />
   &nbsp;
   <img src="https://github-profile-trophy.vercel.app/?username=rohitrathod9033&theme=dracula&no-frame=true" alt="trophies" />
 </p>
