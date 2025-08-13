@@ -70,3 +70,10 @@
 
 Thanks for visiting — let’s build something awesome! 🚀
 
+
+
+
+
+
+![trophy](https://github-profile-trophy.vercel.app/?username=rohitrathod9033&theme=onedark)
+
