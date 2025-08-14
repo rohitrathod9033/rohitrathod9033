@@ -55,7 +55,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rohitrathod9033&layout=compact&theme=tokyonight&hide_border=true" height="160" alt="top-langs"/>
 </p>
 
----
+__________
 
 ## 🔥 Streak & Trophies
 <p align="center">
@@ -63,7 +63,7 @@
   <img src="https://github-profile-trophy.vercel.app/?username=rohitrathod9033&theme=dracula&no-frame=true" alt="trophies" />
 </p>
 
----
+___________
 
 Thanks for visiting — let’s build something awesome! 🚀
 
