@@ -2,7 +2,7 @@
 
 <h1 align="center">
   <img src="https://raw.githubusercontent.com/rohitrathod9033/rohitrathod9033/output/wave.gif" alt="wave" width="34px" />
-  Hi 👋, I'm Rohit Rathod
+  Hi 👋, I'm Rohit Rathod.
 </h1>
 
 
