@@ -35,7 +35,7 @@
 ## 🚀 About Me
 - 🔭 Currently working on 'E-Learning Portal' 
 - 🌟 Built: [Astrotalk Clone](https://astrotalk-clone.netlify.app/)  
-- 💬 Ask me about **MERN Stack**  
+- 💬 Ask me about MERN Stack
 - 📫 Reach me: **rohitrathod60371@gmail.com**  
 - ⚡ Fun fact: *I think I'm funny 😄*
 
