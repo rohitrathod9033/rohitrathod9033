@@ -39,7 +39,7 @@
 - 📫 Reach me: **rohitrathod60371@gmail.com**  
 - ⚡ Fun fact: *I think I'm funny 😄*
 
----
+------
 
 ## 🛠 Tech Stack
 <p align="center">
