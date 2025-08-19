@@ -55,7 +55,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rohitrathod9033&layout=compact&theme=tokyonight&hide_border=true" height="160" alt="top-langs"/>
 </p>
 
-__________
+__
 
 ## 🔥 Streak & Trophies
 <p align="center">
