@@ -63,7 +63,7 @@ __________
   <img src="https://github-profile-trophy.vercel.app/?username=rohitrathod9033&theme=dracula&no-frame=true" alt="trophies" />
 </p>
 
-______________
+__
 
 Thanks for visiting — let’s build something awesome! 🚀
 
