@@ -9,7 +9,7 @@
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&pause=1200&color=00E6FF&center=true&vCenter=true&width=780&lines=Full-Stack+JavaScript+Developer;MERN+Stack+|+MongoDB+Express+React+Node;Building+E-Learning+Portal;Open+to+Collaborations" alt="typing"/>
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&pause=1200&color=00E6FF&center=true&vCenter=true&width=780&lines=Full-Stack+JavaScript+Developer;MERN+Stack+|+MongoDB+Express+React+Node+Typescript+Next;Building+E-Learning+Portal;Open+to+Collaborations" alt="typing"/>
   </a>
 </p>
 
