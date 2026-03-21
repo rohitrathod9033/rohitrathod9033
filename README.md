@@ -44,7 +44,7 @@
 
 ## 🛠 Tech Stack
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,next,typescript,react,nodejs,express,mongodb,tailwind,aws,docker,git,html,css&theme=dark,python,.net,flask" alt="techicons"/>
+  <img src="https://skillicons.dev/icons?i=js,next,typescript,react,nodejs,express,mongodb,tailwind,aws,docker,git,html,css,python,dotnet,flask&theme=dark" alt="techicons"/>
 </p>
 
 ------
@@ -60,8 +60,10 @@ __
 
 ## 🔥 Streak & Trophies
 <p align="center">
-  &nbsp;
-  <img src="https://github-profile-trophy.vercel.app/?username=rohitrathod9033&theme=dracula&no-frame=true" alt="trophies" />
+  <img 
+    src="https://github-profile-trophy.vercel.app/?username=rohitrathod9033&theme=dracula&no-frame=true&margin-w=10&margin-h=10" 
+    alt="GitHub Trophies"
+  />
 </p>
 
 __
