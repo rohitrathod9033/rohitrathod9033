@@ -34,7 +34,7 @@
 -
 
 ## 🚀 About Me
-- 🔭 Built: [E-Learning Portal](https://lms-full-stack-alpha-seven.vercel.app/)     
+- 🔭 Built: [E-Learning Portal](https://lms-full-stack-indol-tau.vercel.app/)     
 - 🌟 Built: [Astrotalk Clone](https://astrotalk-clone.netlify.app/)  
 - 💬 Ask me about MERN Stack
 - 📫 Reach me: **rohitrathod60371@gmail.com**  
