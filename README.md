@@ -44,7 +44,7 @@
 
 ## 🛠 Tech Stack
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,react,nodejs,express,mongodb,tailwind,aws,docker,git,html,css&theme=dark" alt="techicons"/>
+  <img src="https://skillicons.dev/icons?i=js,next,typescript,react,nodejs,express,mongodb,tailwind,aws,docker,git,html,css&theme=dark,python,.net,flask" alt="techicons"/>
 </p>
 
 ------
